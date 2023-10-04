@@ -3,3 +3,101 @@
   text-align: center;
   width: auto;
 }
+
+
+  /* code for Text */
+  p{
+    width: 80%;
+    margin:10px auto 55px auto;
+    text-align:justify;
+    color: #757575;
+    font-size: 1.5rem;
+  }
+  
+  h1 {
+    color: #F0F4C3;
+    font-size: 4rem;
+  }
+  
+  h2{
+  color: #212121;
+  }
+  
+  h3 {
+    color: #66BFBF;
+  }
+  
+  
+  /* code for images */
+  
+  .profile-img{
+    margin: 20px;
+    width: 70%;
+  }
+  
+  .contact-img{
+    width: 5%;
+    margin: 10px 45px;
+  }
+  
+  .hobbies-img{
+    width: 20%;
+  }
+  
+  
+  
+  
+  #Profile{
+    background-color: red;
+  }
+  
+  
+  /* container properties */
+  
+  .colored-container{
+    /* later we delete yellow and uncomment azure */
+    background-color: #CDDC39;
+    /* #F4F2DE; */
+   
+    /* background-color:azure; */
+    padding: 40px;
+    
+    /* height: 350px; */
+  }
+  
+  .plain-container{
+    /* later we change color  */
+    background-color: #fff6de;
+    /* background-color:azure; */
+    padding: 40px;
+    /* height: 350px; */
+  }
+  
+  
+  
+  .big-heading{
+    font-size: 5rem;
+  }
+  
+  
+  /* button css */
+  
+  /* .btn{
+    background-color: #FFC107;
+    border-color:#FFC107;
+  } */
+  
+  .btn-tech{
+    margin: 15px 10px;
+  align-items: center;
+  }
+  
+  
+  /* NAV BAR */
+  
+  .navbar{
+    background-color: #AFB42B;
+    padding: 8px;
+  }
+  
+  
